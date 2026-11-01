@@ -1,7 +1,7 @@
 # 💫 **About Me:**
 
 🎯 **Senior Full-Stack Developer**  
-I combine a unique set of technical skills with international experience gained working for key players in **Russia**, **Cyprus**, **Istanbul**, and **Dubai**. My broad experience includes **Dart**, **PHP**, and **Python**.
+I combine a unique set of technical skills with international experience gained working for key players in **Russia**, **Cyprus**, **Istanbul**, and **Dubai**. My broad experience includes **Dart**, **PHP**, **Angular**, **.NET**, and **Python**.
 
 ---
 
@@ -9,8 +9,8 @@ I combine a unique set of technical skills with international experience gained 
 
 ### 🔧 **Multifaceted Skill Set**  
 - High proficiency in designing **scalable and reliable cross-platform solutions**.  
-- Expertise in **Dart**, **PHP**, **Python**, **C**, and **C++**.  
-- Specialized in using **Laravel** and **Django** to build efficient and sustainable backend systems.
+- Expertise in **Dart**, **PHP**, **Python**, **C**, **C++**,  **C#**.  
+- Specialized in using **Laravel**, **Django**, **ASP.NET Core** to build efficient and sustainable backend systems.
 
 ### 📱 **Experience in Flutter**  
 - Deep knowledge of creating **full mobile applications** from scratch, both independently and as part of a team.
